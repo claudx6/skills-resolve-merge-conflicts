@@ -21,7 +21,8 @@ _Learn why conflicts happen and how to resolve them._
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Create a pull request
+## Step 1: Create a pull request 
+
 
 _Welcome to "Managing Merge Conflicts"! :wave:_
 
@@ -40,6 +41,8 @@ _Welcome to "Managing Merge Conflicts"! :wave:_
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
+
+## Step 2: create a pull request 
 
 ---
 
